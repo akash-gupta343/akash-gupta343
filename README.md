@@ -1,5 +1,5 @@
 
-# Hi, I'm Shri Akash 👋
+# Hi, I'm Akash 👋
 ### Backend Engineer who likes taking systems apart to see how they tick
 I build backend systems and APIs, and enjoy understanding how things work under the hood. Open to collaborating on anything backend-flavored — especially open source.
 
