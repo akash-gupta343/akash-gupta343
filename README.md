@@ -1,5 +1,5 @@
 
-# Hi, I'm Akash 👋
+# Hello, World!
 ### Backend Engineer who likes taking systems apart to see how they tick
 I build backend systems and APIs, and enjoy understanding how things work under the hood. Open to collaborating on anything backend-flavored — especially open source.
 
@@ -8,7 +8,7 @@ I build backend systems and APIs, and enjoy understanding how things work under 
 
 ### 🧭 A bit about me
 
-I care more about *why* a system is designed a certain way than just getting it to work — clean APIs, sane architecture, code that doesn't make the next person (often future me) suffer. Right now I'm deep in distributed systems and microservices, and generally enjoy pulling things apart to understand the internals.
+I care more about *why* a system is designed a certain way than just getting it to work — clean APIs, sane architecture, code that doesn't make the next person suffer. Right now I'm deep in distributed systems and microservices, and generally enjoy pulling things apart to understand the internals.
 
 ---
 
